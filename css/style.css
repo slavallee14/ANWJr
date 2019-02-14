@@ -1,0 +1,60 @@
+/*unvisited link */
+a:link {
+  color: #1f4a8e;
+}
+
+/* visited link */
+a:visited {
+  color: #14305e;
+}
+
+/*mouse over link*/
+
+body 
+{ background-color: #5e6496; 
+  font-family: "impact"; 
+  color: #1f3287; 
+  text-align: center; 
+  width: 800px; 
+  margin-left:auto; 
+  margin-right:auto;
+}
+
+.logo {
+  width: 500px;
+  margin-left:auto; 
+  margin-right:auto;
+}
+
+.logo:hover {
+  transform: scale(1.2);
+  }
+
+h1
+{
+background-color: #102063;
+overflow: hidden;
+font-size:250%;
+color:#932525;
+}
+
+
+h2 {
+background-color: #102063;
+font-size:250%;
+color: #932525;
+}
+ 
+a:hover {
+  color: #134faf;
+}
+
+.acroyoga {
+  width: 500px;
+  margin-left:auto; 
+  margin-right:auto;
+}
+
+.acroyoga:hover {
+  transform: scale(1.5);
+  }
